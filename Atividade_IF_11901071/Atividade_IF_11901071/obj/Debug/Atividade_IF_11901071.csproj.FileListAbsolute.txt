@@ -1,0 +1,10 @@
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\bin\Debug\Atividade_IF_11901071.exe.config
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\bin\Debug\Atividade_IF_11901071.exe
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\bin\Debug\Atividade_IF_11901071.pdb
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.csprojAssemblyReference.cache
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.Form1.resources
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.Properties.Resources.resources
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.csproj.GenerateResource.cache
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.csproj.CoreCompileInputs.cache
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.exe
+C:\Users\bemai\source\repos\Atividade_IF_11901071\Atividade_IF_11901071\obj\Debug\Atividade_IF_11901071.pdb
